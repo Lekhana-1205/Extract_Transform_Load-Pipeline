@@ -1,0 +1,18 @@
+Metric,Value
+Churn Percentage,0.0
+Avg Monthly Charges (Month-to-month),67.3
+Avg Monthly Charges (One year),68.18
+Avg Monthly Charges (Two year),63.27
+Customer Type Count (New),321.0
+Customer Type Count (Regular),268.0
+Customer Type Count (Champion),209.0
+Customer Type Count (Loyal),202.0
+Internet Service Count (Fiber optic),468.0
+Internet Service Count (DSL),329.0
+Internet Service Count (No),203.0
+
+Metric,tenure_group,No,Yes
+Churn vs Tenure Group,Champion,196,13
+Churn vs Tenure Group,Loyal,169,33
+Churn vs Tenure Group,New,167,154
+Churn vs Tenure Group,Regular,212,56
